@@ -1,0 +1,32 @@
+Görev Listesi Uygulaması
+
+Bu proje, basit bir Görev Takip  uygulamasıdır.  
+Kullanıcılar görev ekleyebilir, silebilir ve tamamladıklarını işaretleyebilir.
+
+( Visual Studio Code ile index.html dosyasına Sağ tık → “Open with Live Server” daha duzgun calismasini sagliyor)
+
+
+
+Projenin Amacı ve ozellikleri 
+
+- HTML, CSS ve JavaScript bilgilerini birleştirerek bir proje oluşturmak  
+- Yeni görev ekleyebilme  
+- Görevi tamamlandı olarak işaretleyebilme  
+- Görevi silme  
+- Tüm görevleri tarayıcı belleğinde saklama  
+- sade kullanıcı arayüzü
+
+Kullanılan Teknolojiler
+
+| Teknoloji  | Açıklama |
+|------------|----------|
+| `HTML5`    | Sayfa iskeleti ve form yapısı |
+| `CSS3`     | Sayfa tasarımı ve stil düzenlemeleri |
+| `JavaScript` | Görev ekleme/silme işlemleri ve `localStorage` kullanımı |
+| `localStorage` | Verileri backend olmadan tarayıcı belleğinde saklamak için |
+| `Vercel`   | Uygulamanın internete yüklenmesi ama eski versiyon | link: https://todolistcreate-frontend.vercel.app/
+
+
+(Railway ve versel ile frontend ve backendi birleştirmeye calistim. internet ortaminda yüklemeye calistim ama 502 hatasi aldim. railway link; todolistcreate-backend-production.up.railway.app)
+
+
